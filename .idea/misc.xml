@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Apoorva/Desktop/SecureBox-master/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/Apoorva/Desktop/SecureBox-master/app/src/main/res/layout/activity_add.xml" value="0.25" />
+        <entry key="..\:/Users/Apoorva/Desktop/SecureBox-master/app/src/main/res/layout/activity_splash.xml" value="0.264" />
+        <entry key="..\:/Users/Apoorva/Desktop/SecureBox-master/app/src/main/res/layout/list_whats_new.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Apoorva/Desktop/SecureBox-master/app/src/main/res/layout/settings_activity.xml" value="0.264" />
+        <entry key="..\:/Users/Apoorva/Desktop/SecureBox-master/app/src/main/res/layout/welcome_slide1.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Apoorva/Desktop/SecureBox-master/app/src/main/res/layout/welcome_slide4.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Apoorva/Desktop/SecureBox-master/app/src/main/res/menu/home.xml" value="0.25" />
+        <entry key="..\:/Users/Apoorva/Desktop/SecureBox-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Apoorva/Desktop/SecureBox-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Apoorva/Desktop/passcrypt-master/app/src/main/res/layout/activity_about.xml" value="0.264" />
+        <entry key="..\:/Users/Apoorva/Desktop/passcrypt-master/app/src/main/res/layout/activity_change_pass.xml" value="0.1" />
+        <entry key="..\:/Users/Apoorva/Desktop/passcrypt-master/app/src/main/res/layout/activity_mlock.xml" value="0.264" />
+        <entry key="..\:/Users/Apoorva/Desktop/passcrypt-master/app/src/main/res/layout/layout_auth_bio.xml" value="0.264" />
+        <entry key="..\:/Users/Apoorva/Desktop/passcrypt-master/app/src/main/res/layout/list_whats_new.xml" value="0.1" />
+        <entry key="..\:/Users/Apoorva/Desktop/passcrypt-master/app/src/main/res/layout/social_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/Apoorva/Downloads/PassCrypt-master/app/src/main/res/layout/activity_about.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Apoorva/Downloads/PassCrypt-master/app/src/main/res/layout/activity_add.xml" value="0.264" />
+        <entry key="..\:/Users/Apoorva/Downloads/PassCrypt-master/app/src/main/res/layout/activity_authorize.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Apoorva/Downloads/PassCrypt-master/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Apoorva/Downloads/PassCrypt-master/app/src/main/res/layout/activity_mlock.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Apoorva/Downloads/PassCrypt-master/app/src/main/res/layout/activity_modify.xml" value="0.4" />
+        <entry key="..\:/Users/Apoorva/Downloads/PassCrypt-master/app/src/main/res/layout/fragment_password.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
